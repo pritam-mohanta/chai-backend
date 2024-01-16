@@ -1,0 +1,15 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "js,backend"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "Pritam Mohanta",
+  "license": "ISC"
+}
