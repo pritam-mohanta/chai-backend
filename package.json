@@ -2,14 +2,18 @@
   "name": "chaiaurbackend",
   "version": "1.0.0",
   "description": "backend",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "js,backend"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "js",
     "backend"
   ],
   "author": "Pritam Mohanta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
